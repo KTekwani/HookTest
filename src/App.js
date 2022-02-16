@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import increment from './increment';
-import Counter from './increment';
+import Function1 from './writing';
+
+
 
 function App() {
   return (
-    <Counter />
+   <Function1></Function1>
   );
 }
 
